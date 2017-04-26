@@ -7,6 +7,6 @@
 源码在我的github都可以找到，欢迎大家Fork star issues ...
 
 
-#Demo：
+## Demo：
 https://xingchou.github.io/pluginApp/dist/index.html
 
